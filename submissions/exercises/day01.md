@@ -34,13 +34,12 @@ _(just choose the questions you would like to answer and make it concise)_
     Answer: Yes the websites’ layout and design visually pleasing and consistent with their brand. Actully, the Shopee website stand out because it live its branding (ORANGE <3)
     
 -   Comment on the responsiveness of both websites across different devices.<br/>
-    Answer: Shopee Website & phone - Although there is an ads when you open the website, it is still fast than Lazada.
-            Lazada -  When you search it's website, you still need to click on the logo in order to see the  products because it looks like this when you click the link/search online:
+    Answer: As for Shopee Website & phone, Although there is an ads when you open the website, it is still fast than Lazada. Ont he other hand, when search lazada website, you still need to click on the logo in order to see the  products because it looks like this when you click the link/search online:
 ![image](https://github.com/Randylrnz/AWSCC-CodeQuest-UI-UX/assets/151449579/a234fc1f-1df6-4ae8-bdc1-25c6029e96e0)
 
     
 -   Which do you think is better when it comes to the visual aspect of the website?<br/>
-    Answer: For the visuals, I thinks Shopee is better than Lazada, because it incorporates the color orange (their branding color) which attracts the user.
+    Answer: For the visuals, I thinks Shopee is better than Lazada, because it incorporates their branding color which attracts the user.
     
     <br>
 
