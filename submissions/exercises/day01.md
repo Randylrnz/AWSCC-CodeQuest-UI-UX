@@ -49,5 +49,6 @@ _(just choose the questions you would like to answer and make it concise)_
 
 ![image](https://github.com/Randylrnz/AWSCC-CodeQuest-UI-UX/assets/151449579/6f0737de-bdb7-4f70-9b58-c5484fc80cbd)
 
+Nakakalito HAHAHAHH o sdyang naduduling lang ako pag matagal na
 
 <!-- You may now delete and modify the content of this file -->
