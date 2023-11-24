@@ -16,8 +16,8 @@ _(just choose the questions you would like to answer and make it concise)_
     Answer: Lazada
 
 -   Identify any distractions or unnecessary elements that could potentially confuse users.<br/>
-    Answer: For Shopee - ![image](https://github.com/Randylrnz/AWSCC-CodeQuest-UI-UX/assets/151449579/4f1addd9-ca1a-418d-8448-598d9483412c) I think some part of this is unnecessary because there is already category section such as ![image](https://github.com/Randylrnz/AWSCC-CodeQuest-UI-UX/assets/151449579/3f1f6b9b-0dc9-44ee-9e32-09d3adc1e2ad).
-    Also this ads should not be here because it may looks redundant![image](https://github.com/Randylrnz/AWSCC-CodeQuest-UI-UX/assets/151449579/48264e60-1bef-4c42-80b7-1396d5e8f5dc),
+    Answer: For Shopee - ![image](https://github.com/Randylrnz/AWSCC-CodeQuest-UI-UX/assets/151449579/4f1addd9-ca1a-418d-8448-598d9483412c) I think some part of this is unnecessary because there is already category section such as ![image](https://github.com/Randylrnz/AWSCC-CodeQuest-UI-UX/assets/151449579/3f1f6b9b-0dc9-44ee-9e32-09d3adc1e2ad)
+    Also this ads should not be here because it may looks redundant![image](https://github.com/Randylrnz/AWSCC-CodeQuest-UI-UX/assets/151449579/48264e60-1bef-4c42-80b7-1396d5e8f5dc)
     maybe it should be included in this part![image](https://github.com/Randylrnz/AWSCC-CodeQuest-UI-UX/assets/151449579/0eccd74f-e71a-4127-9743-f3d922847fd6)
     For Lazada - ![image](https://github.com/Randylrnz/AWSCC-CodeQuest-UI-UX/assets/151449579/c7650ff9-7320-4fae-9ee5-bc1fc459de98) it is better if the text are alligned/measured equally.
     See the sample picture:![image](https://github.com/Randylrnz/AWSCC-CodeQuest-UI-UX/assets/151449579/e7d398be-c5f8-4c87-93ba-4ba79f5cbac9)
