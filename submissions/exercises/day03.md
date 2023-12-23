@@ -10,4 +10,4 @@ Remember, you're free to add your personal touch, but keep the sacred requiremen
 
 Ready to include your output for **Day 3**? Let the customization begin! 🚀✨
 
-<!-- You may now delete and modify the content of this file -->
+https://www.figma.com/file/55cOF8SC5qcsQUFAkFS270/Week-1-%5BDay-3%5D-%3A-Activity-(Community)?type=design&node-id=202%3A37&mode=design&t=UP6BX7jNQND6L3er-1
