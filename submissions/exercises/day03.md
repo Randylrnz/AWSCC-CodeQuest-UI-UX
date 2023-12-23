@@ -11,3 +11,6 @@ Remember, you're free to add your personal touch, but keep the sacred requiremen
 Ready to include your output for **Day 3**? Let the customization begin! 🚀✨
 
 https://www.figma.com/file/55cOF8SC5qcsQUFAkFS270/Week-1-%5BDay-3%5D-%3A-Activity-(Community)?type=design&node-id=202%3A37&mode=design&t=UP6BX7jNQND6L3er-1
+
+![image](https://github.com/Randylrnz/AWSCC-CodeQuest-UI-UX/assets/151449579/1025f228-80f3-4c78-8452-6772a313e572)
+
