@@ -11,4 +11,7 @@ Remember, you're free to add your personal touch, but keep the sacred requiremen
 
 Ready to include your output for **Day 5**? Let the customization begin! 🚀✨
 
-<!-- You may now delete and modify the content of this file -->
+https://www.figma.com/file/BXtIQUkeTHywfBBsjx3eBh/AWSCC-Figma-Workshop%3A-Advance-(Community)?type=design&node-id=23%3A351&mode=design&t=BGACEU6va645JdV7-1
+
+Reflection:
+For today's lesson, I delved into Figma's Pen tool, auto layout, grids, and constraints. The Pen tool, with its precision and flexibility, has empowered me to breathe life into intricate shapes. Auto layout has simplified the often complex task of dynamically arranging elements, while grids and constraints have served as guiding lights, offering structure and consistency to my designs. These new tools have not only equipped me with practical design skills but have also played a crucial role in shaping my understanding of the intricate interplay between form and function in the digital realm.
